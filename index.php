@@ -1,2 +1,2 @@
 <?php
-echo "BOT IS WORK !!";
+echo "BOT IS WORKS !";
